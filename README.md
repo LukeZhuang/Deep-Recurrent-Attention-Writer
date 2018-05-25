@@ -3,6 +3,9 @@ My implementation of "[DRAW (Deep Recurrent Attention Writer)](https://arxiv.org
 
 This code is able to deal with images with multiple channels
 
+## Generate results on MNIST:
+![Alt Text](draw.gif)
+
 ## References: 
 [1] https://github.com/ericjang/draw  
 [2] Doersch, Carl. "[Tutorial on variational autoencoders.](https://arxiv.org/abs/1606.05908)" arXiv preprint arXiv:1606.05908 (2016).
